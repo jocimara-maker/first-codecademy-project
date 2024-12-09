@@ -1,1 +1,1 @@
-# first-codecademy-project
+# My first project
